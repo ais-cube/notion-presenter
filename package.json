@@ -1,0 +1,19 @@
+{
+  "name": "notion-presenter",
+  "version": "1.0.0",
+  "description": "Chrome extension that turns published Notion pages into presentations",
+  "private": true,
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "roots": ["<rootDir>/tests"]
+  }
+}
