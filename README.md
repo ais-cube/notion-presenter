@@ -2,7 +2,7 @@
 
 Turn any published Notion page into a clean, full-screen presentation with one click.
 
-![Notion Presenter](store-assets/promo-1280x800.png)
+![Notion Presenter](store-assets/promo-1280x800.jpg)
 
 ## Features
 
